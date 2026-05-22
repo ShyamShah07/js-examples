@@ -1,0 +1,6 @@
+{
+    // "image":"mcr.microsoft.com/devcontainers/universal:2"
+        "name" : "Node.js" ,
+        "image":"mcr.microsoft.com/devcontainers/javascript-node:0-18"
+
+}
